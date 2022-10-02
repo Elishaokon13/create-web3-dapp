@@ -1,0 +1,55 @@
+{
+	"name": "create-web3-dapp",
+	"version": "0.1.820",
+	"private": false,
+	"keywords": [
+		"create-web3-dapp",
+		"create web3 dapp",
+		"boilerplate",
+		"nextjs",
+		"react",
+		"create-react-app",
+		"wagmi",
+		"alchemy",
+		"hardhat",
+		"foundry",
+		"ethereum",
+		"polygon",
+		"solana",
+		"optimism",
+		"arbitrum",
+		"anchor",
+		"tailwind",
+		"metaplex",
+		"chakra-ui"
+	],
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"lint": "eslint . --ext .ts && yarn prettier --write .",
+		"start": "npx tsc && npm link && npx create-web3-dapp"
+	},
+	"bin": {
+		"create-web3-dapp": "./dist/index.js"
+	},
+	"devDependencies": {
+		"@types/node": "^18.6.4",
+		"@typescript-eslint/eslint-plugin": "^5.32.0",
+		"@typescript-eslint/parser": "^5.32.0",
+		"eslint": "^8.21.0",
+		"eslint-config-next": "12.2.3",
+		"prettier": "^2.7.1"
+	},
+	"type": "module",
+	"dependencies": {
+		"chalk": "^5.0.1",
+		"cli-progress": "^3.11.2",
+		"fs-extra": "^10.1.0",
+		"prompts": "^2.4.2",
+		"typescript": "^4.7.4"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/eversmile12/create-web3-dapp.git"
+	},
+	"homepage": "https://github.com/Eversmile12/create-web3-dapp/blob/main/README.md"
+}
