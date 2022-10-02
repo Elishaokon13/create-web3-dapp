@@ -212,6 +212,7 @@ This project exists thanks to all the people who [contribute](CONTRIBUTING.md).<
 
 <a href="https://github.com/alchemyplatform/Create-web3-dapp/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=alchemyplatform/Create-web3-dapp" />
+  <img src="https://contrib.rocks/image?repo=Elishaokon13/create-web3-dapp" style="text-align:center"/>
 </a>
 
 ## Acknowledgements
