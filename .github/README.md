@@ -1,10 +1,5 @@
 # Create Web3 DApp
 
-[![Stargazers][stars-shield]][stars-url] [![Forks][forks-shield]][forks-url]
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
 <!-- <img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" /> -->
    Everything you need to create Web3 Dapps.
 
